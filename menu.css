@@ -1,0 +1,21 @@
+.active {
+	color: pink;
+	} 
+.menu {
+    margin: 0;
+    padding: 0 10px 0px 10px; 
+	text-align:center;
+	font-family: sans-serif;
+	font-size:20px;
+	
+}
+.menu li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline;
+    font-family: sans-serif;
+    font-size: 22px;
+	text-align: center;
+	claer: both;
+}
